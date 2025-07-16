@@ -1,6 +1,6 @@
 # Welcome, I'm Flavia Cohen 👋
 
-**Frontend Developer** | ReactJS, React Native, TypeScript, Storybook, Rails  
+**Frontend Developer** | ReactJS
 **Curious mind, clean code advocate, UX/UI enthusiast**
 
 ## 🌱 About Me

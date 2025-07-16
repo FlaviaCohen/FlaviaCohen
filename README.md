@@ -15,7 +15,7 @@ I enjoy building delightful user experiences, solving problems with code, and le
 ## 🧰 Technologies I Use
 
 <p align="left">
-  <img src="[https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white](https://camo.githubusercontent.com/49179b69f7956cc4b5e5e7987d011103b7e3ffc20c55ca4a43c8ff214c3b6796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c)" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS/SASS-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />

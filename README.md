@@ -1,6 +1,6 @@
 # Welcome, I'm Flavia Cohen 👋
 
-**Frontend Developer** | ReactJS
+**Frontend Developer** | ReactJS<br>
 **Curious mind, clean code advocate, UX/UI enthusiast**
 
 ## 🌱 About Me

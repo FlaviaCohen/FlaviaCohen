@@ -42,7 +42,7 @@ I enjoy building delightful user experiences, solving problems with code, and le
 
 ## 📫 Contact
 
-- 📬 flaviacohen1988@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/flaviacohen)
+[![Email](https://img.shields.io/badge/Email-flaviacohen1988@gmail.com-C71585?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flaviacohen1988@gmail.com)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@flaviacohen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/flaviacohen)
 
 > _"Simplicity is the ultimate sophistication." – Leonardo da Vinci_

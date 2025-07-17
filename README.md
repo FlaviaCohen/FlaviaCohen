@@ -15,30 +15,36 @@ I enjoy building delightful user experiences, solving problems with code, and le
 ## 🧰 Technologies I Use
 
 <p align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <!-- Core Web -->
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="SASS logo" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript logo" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript logo" />
+
   <!-- Libraries / Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" height="40" alt="Rails" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS logo" />
+  <img src="https://skillicons.dev/icons?i=rails" height="40" alt="Rails logo" />
+
   <!-- Tools / Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="Bitbucket" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab logo" />
+  <img src="https://skillicons.dev/icons?i=bitbucket" height="40" alt="Bitbucket logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode logo" />
+
   <!-- Design / UI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="Photoshop logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
+
   <!-- Testing -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="Jest logo" />
 </p>
+
 
 ## 📫 Contact
 
